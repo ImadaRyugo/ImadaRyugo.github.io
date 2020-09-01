@@ -1,0 +1,44 @@
+@media screen and (max-width:1000px){
+
+}
+
+@media screen and (max-width:670px){
+header {
+  height:120px;
+
+}
+
+.header-right a{
+  font-size: 20px;
+  line-height:120px;
+}
+
+.header-left img {
+  width:140px;
+  padding-left:40px;
+  padding-top: 30px;
+}
+
+.top {
+  padding: 150px 0 100px 0;
+}
+
+.top-top {
+  padding:70px 0 0 150px;
+  line-height: 0.6;
+  font-size: 25px;
+}
+
+.container h1 {
+margin-left: -150px;
+}
+
+.btn {
+  margin-top: 50px;
+}
+
+}
+
+*{
+  box-sizing: border-box;
+}

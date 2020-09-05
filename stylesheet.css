@@ -1,3 +1,8 @@
+@font-face {
+font-family: 'mamelon';
+  src: url('https://moji-waku.com/mamelon/') format('opentype');
+}
+
 body{
   font-family:mamelon;
 }

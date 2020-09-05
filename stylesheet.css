@@ -1,10 +1,11 @@
 @font-face {
-font-family: 'mamelon';
-  src: url('https://moji-waku.com/mamelon/') format('opentype');
+  font-family: "mamelon";
+  src: url("/assets/font/mamelon.woff2") format("woff2"),
+       url("/assets/font/mamelon.woff") format("woff");
 }
 
 body{
-  font-family:mamelon;
+  font-family:"mamelon";
 }
 header {
     height:80px;

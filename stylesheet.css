@@ -1,8 +1,8 @@
 @font-face {
   font-family: "mamelon";
-  src: url("/Users/imadaryugo/Downloads/mamelon/Mamelon.otf") format("opentype"),
-       url("/Users/imadaryugo/Downloads/mamelon/Mamelon.woff") format("woff"),
-       url("/Users/imadaryugo/Downloads/mamelon/Mamelon.eot") format("embedded-opentype");
+  src: url("/mamelon/Mamelon.otf") format("opentype"),
+       url("/mamelon/Mamelon.woff") format("woff"),
+       url("/mamelon/Mamelon.eot") format("embedded-opentype");
 }
 
 html,body{

@@ -222,7 +222,7 @@ a.btn:hover {
   padding-left: 95px;
 }
 .sub-one {
-  padding-left: 117px;
+  padding-left: 87px;
 }
 ul {
   padding-top: 30px;
@@ -240,6 +240,10 @@ ul {
   align-items: center;
   flex-direction: column;
 }
+
+.long {
+  margin-left:-30px;
+}		
 
 .message {
   background-color: #f5f5f5;
